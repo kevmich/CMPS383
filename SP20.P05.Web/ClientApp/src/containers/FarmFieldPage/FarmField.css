@@ -1,0 +1,33 @@
+.main-FarmField {
+  text-align: center;
+}
+
+.h1-FarmField {
+  padding-bottom: 10px;
+}
+
+.p-FarmField {
+  display: inline-block;
+}
+
+.label-group {
+  padding-top: 20px;
+  padding-left: 150px;
+}
+
+.list.fields {
+  display: flex;
+  justify-content: center;
+  max-width: 400;
+  padding-left: 125px;
+  padding-right: 125px;
+}
+
+.buybutton {
+  margin: 5px;
+}
+
+.label.group {
+  padding-top: 20px;
+  padding-left: 140px;
+}

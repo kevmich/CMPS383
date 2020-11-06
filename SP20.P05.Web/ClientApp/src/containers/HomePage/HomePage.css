@@ -1,0 +1,84 @@
+.HomePage.Main-Div {
+  background-color: #ffffff;
+  height: 100%;
+  text-align: center;
+}
+
+.HomePage.Header {
+  padding-top: 25px;
+  background-color: #ffffff;
+  align-items: center;
+}
+
+.HomePage.H1 {
+  padding-top: 325px;
+  font-family: "Spartan", sans-serif;
+  font-size: 45px;
+  color: white;
+}
+
+.HomePage.H3 {
+  padding-top: 10px;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+.what-we-do {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  font-family: "Open Sans", sans-serif;
+}
+.testimonials {
+  padding-top: 40px;
+  padding-bottom: 15px;
+  font-family: "Open Sans", sans-serif;
+}
+#whoweare {
+  padding-top: 40px;
+  padding-bottom: 15px;
+  font-family: "Open Sans", sans-serif;
+}
+.testimonials-body {
+  padding-top: 15px;
+  padding-bottom: 25px;
+  font-family: "Open Sans", sans-serif;
+}
+.Carousel {
+  width: 100%;
+  margin-top: 0px;
+  height: auto;
+  justify-content: center;
+  display: inline-block;
+}
+
+.Home-Calendar {
+  display: inline-block;
+}
+
+.custom-bg {
+  height: 500px;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
+.Carousel {
+  box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.carousel-caption {
+  top: 0;
+  bottom: auto;
+}
+.Segment {
+  box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.centered {
+  max-width: 1000;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.Parilax.Homepage {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

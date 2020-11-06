@@ -1,0 +1,19 @@
+.Content {
+  background-color: #ffffff;
+  flex: 1;
+}
+
+.main {
+  background-color: #ffffff;
+}
+
+.body {
+}
+
+.footer {
+  background-color: bisque;
+}
+
+.navBar {
+  text-align: center;
+}
